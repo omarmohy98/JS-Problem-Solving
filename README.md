@@ -1,5 +1,5 @@
 # JS-Problem-Solving
-A repository that contains my solutions for various algorithmic problems in JavaScript from [projecteuler](https://projecteuler.net/archives).
+A repository that contains my solutions for various algorithmic problems in JavaScript from projecteuler, Codecademy, Elzero Web School, etc...
 1. [Multiples of 3 or 5](https://projecteuler.net/problem=1)
 2. [Even Fibonacci numbers](https://projecteuler.net/problem=2)
 3. [Largest prime factor](https://projecteuler.net/problem=3)
@@ -15,3 +15,5 @@ A repository that contains my solutions for various algorithmic problems in Java
 13. [Large sum](https://projecteuler.net/problem=13)
 14. [Longest Collatz sequence](https://projecteuler.net/problem=14)
 15. [Lattice paths](https://projecteuler.net/problem=15)
+16. [Flatten an array](https://www.codecademy.com/code-challenges/code-challenge-flatten-an-array-javascript)
+17. [Missing Letter in Sequence](https://elzero.org/programming-find-missing-letter-in-sequence/)
