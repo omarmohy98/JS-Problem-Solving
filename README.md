@@ -27,3 +27,4 @@ A repository that contains my solutions for various algorithmic problems in Java
 25. [Number To Reversed List](https://elzero.org/programming-number-to-reversed-list/)
 26. [Text Characters Location](https://elzero.org/programming-text-characters-location/)
 27. [Phone Number Pattern](https://elzero.org/programming-phone-pattern/)
+28. [Find the Symmetric Difference](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference)
