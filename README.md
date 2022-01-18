@@ -29,4 +29,4 @@ A repository that contains my solutions for various algorithmic problems in Java
 27. [Phone Number Pattern](https://elzero.org/programming-phone-pattern/)
 28. [Find the Symmetric Difference](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference)
 29. [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update)
-30. [no Repeat Please](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please)
+30. [no Repeats Please](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please)
