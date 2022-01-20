@@ -31,3 +31,4 @@ A repository that contains my solutions for various algorithmic problems in Java
 29. [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update)
 30. [no Repeats Please](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please)
 31. [PairWise](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
+32. [Implement Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
