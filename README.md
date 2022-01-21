@@ -32,3 +32,8 @@ A repository that contains my solutions for various algorithmic problems in Java
 30. [no Repeats Please](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please)
 31. [PairWise](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
 32. [Implement Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
+33. [Implement Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
+34. [Implement Insertion Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)
+35. [Implement Quick Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)
+36. [Implement Merge Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)
+37. [Implement Binary Search](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-binary-search)
